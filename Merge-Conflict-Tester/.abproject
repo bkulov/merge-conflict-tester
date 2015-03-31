@@ -1,0 +1,40 @@
+{
+  "ProjectName": "Merge-Conflict-Tester",
+  "ProjectGuid": "aca75b2a-e6e4-4db8-ab70-7fce370ebee3",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.MergeConflictTester",
+  "DisplayName": "Merge-Conflict-Tester",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{20688e0e-3d60-4733-91fa-9c9e6c54a04a}",
+  "WP8ProductID": "{2e7da0c3-8eb8-4df9-9e70-80c54e613454}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.MergeConflictTester",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
