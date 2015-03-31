@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.MergeConflictTester",
   "DisplayName": "Merge-Conflict-Tester",
   "Author": "",
-  "Description": "",
+  "Description": "Merge-Conflict-Tester",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
